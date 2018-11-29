@@ -3,13 +3,13 @@
 ## Introduction (7)
  |
 ---|
-[Say "Hello, World!" With Python]("./Introduction/Say Hello, World! With Python.py")|
-[Python If-Else]("./Introduction/Python If-Else.py")|
-[Arithmetic Operators]("./Introduction/Arithmetic Operators.py")|
-[Python: Division]("./Introduction/Python: Division")|
-[Loops]("./Introduction/Loops")|
-[Write a function]("./Introduction/Write a function")|
-[Print Function]("./Introduction/Print Function")|
+[Say "Hello, World!" With Python](./Introduction/Say Hello, World! With Python.py)|
+[Python If-Else](./Introduction/Python If-Else.py)|
+[Arithmetic Operators](./Introduction/Arithmetic Operators.py)|
+[Python: Division](./Introduction/Python: Division)|
+[Loops](./Introduction/Loops)|
+[Write a function](./Introduction/Write a function)|
+[Print Function](./Introduction/Print Function)|
 <img width=700/>|
 
 ## Basic Data Types (0/6)
