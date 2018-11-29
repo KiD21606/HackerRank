@@ -1,19 +1,19 @@
-# Python (0/115)
+# Python (7/115)
 
 ## Introduction (7)
- |
+problems|
 ---|
-[Say "Hello, World!" With Python](./Introduction/Say Hello, World! With Python.py)|
-[Python If-Else](./Introduction/Python If-Else.py)|
-[Arithmetic Operators](./Introduction/Arithmetic Operators.py)|
-[Python: Division](./Introduction/Python: Division)|
-[Loops](./Introduction/Loops)|
-[Write a function](./Introduction/Write a function)|
-[Print Function](./Introduction/Print Function)|
+[Say "Hello, World!" With Python](./Introduction/Say_Hello_World_With_Python.py)|
+[Python If-Else](./Introduction/Python_If-Else.py)|
+[Arithmetic Operators](./Introduction/Arithmetic_Operators.py)|
+[Python: Division](./Introduction/Python_Division.py)|
+[Loops](./Introduction/Loops.py)|
+[Write a function](./Introduction/Write_a_function.py)|
+[Print Function](./Introduction/Print_Function.py)|
 <img width=700/>|
 
 ## Basic Data Types (0/6)
- |
+problems|
 ---|
 List Comprehensions|
 Find the Runner-Up Score!|
@@ -23,7 +23,7 @@ Lists|
 Tuples|
 <img width=700/>|
 ## Strings (0/14)
- |
+problems|
 ---|
 Text Alignment|
 sWAP cASE|
@@ -42,7 +42,7 @@ The Minion Game|
 <img width=700/>|
 
 ## Sets (0/13)
- |
+problems|
 ---|
 Introduction to Sets|
 No Idea!|
@@ -60,7 +60,7 @@ Check Strict Superset|
 <img width=700/>|
 
 ## Math (0/7)
- |
+problems|
 ---|
 Polar Coordinates|
 Find Angle MBC|
@@ -72,7 +72,7 @@ Triangle Quest|
 <img width=700/>|
 
 ## Itertools (0/7)
- |
+problems|
 ---|
 itertools.product()|
 itertools.permutations()|
@@ -84,7 +84,7 @@ Maximize It!|
 <img width=700/>|
 
 ## Collections (0/8)
- |
+problems|
 ---|
 collections.Counter()|
 Company Logo|
@@ -97,28 +97,28 @@ Collections.deque()|
 <img width=700/>|
 
 ## Data and Time (0/2)
- |
+problems|
 ---|
 Calendar Module|
 Time Delta|
 <img width=700/>|
 
 ## Errors and Exceptions (0/2)
- |
+problems|
 ---|
 Exceptions|
 Incorrect Regex|
 <img width=700/>|
 
 ## Classes (0/2)
- |
+problems|
 ---|
 Classes: Dealing with Complex Numbers|
 Class 2 - Find the Torsional Angle|
 <img width=700/>|
 
 ## Built-Ins (0/6)
- |
+problems|
 ---|
 Input()|
 Zipped!|
@@ -129,7 +129,7 @@ ginortS|
 <img width=700/>|
 
 ## Python Functionals (0/3)
- |
+problems|
 ---|
 Map and Lambda Function|
 Validating Email Addresses With a Filter|
@@ -137,7 +137,7 @@ Reduce Function|
 <img width=700/>|
 
 ## Regex and Parsing (0/17)
- |
+problems|
 ---|
 Detect Floating Point Number|
 Re.split()|
@@ -159,21 +159,21 @@ Matrix Script|
 <img width=700/>|
 
 ## XML (0/2)
- |
+problems|
 ---|
 XML 1 - Find the Score|
 XML2 - Find the Maximum Depth|
 <img width=700/>|
 
 ## Closures and Decorators (0/2)
- |
+problems|
 ---|
 Standardize Mobile Number Using Decorators|
 Decorators 2 - Name Directory|
 <img width=700/>|
 
 ## Numpy (0/15)
- |
+problems|
 ---|
 Arrays|
 Transpose and Flatten|
@@ -193,7 +193,7 @@ Linear Algebra|
 <img width=700/>|
 
 ## Debugging (0/2)
- |
+problems|
 ---|
 Words Score|
 Default Arguments|
