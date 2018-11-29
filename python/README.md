@@ -1,7 +1,7 @@
 # Python (7/115)
 
 ## Introduction (7)
-problems|
+problems<img width=300/>|
 ---|
 [Say "Hello, World!" With Python](./Introduction/Say_Hello_World_With_Python.py)|
 [Python If-Else](./Introduction/Python_If-Else.py)|
@@ -10,10 +10,9 @@ problems|
 [Loops](./Introduction/Loops.py)|
 [Write a function](./Introduction/Write_a_function.py)|
 [Print Function](./Introduction/Print_Function.py)|
-<img width=400/>|
 
 ## Basic Data Types (0/6)
-problems|
+problems<img width=300/>|
 ---|
 List Comprehensions|
 Find the Runner-Up Score!|
@@ -21,8 +20,9 @@ Nested Lists|
 Finding the percentage|
 Lists|
 Tuples|
+
 ## Strings (0/14)
-problems|
+problems<img width=300/>|
 ---|
 Text Alignment|
 sWAP cASE|
@@ -38,10 +38,9 @@ String Formatting|
 Alphabet Rangoli|
 Capitalize!|
 The Minion Game|
-<img width=400/>|
 
 ## Sets (0/13)
-problems|
+problems<img width=300/>|
 ---|
 Introduction to Sets|
 No Idea!|
@@ -56,10 +55,9 @@ Set Mutations|
 The Captain's Room|
 Check Subset|
 Check Strict Superset|
-<img width=400/>|
 
 ## Math (0/7)
-problems|
+problems<img width=300/>|
 ---|
 Polar Coordinates|
 Find Angle MBC|
@@ -68,10 +66,9 @@ Mod Divmod|
 Power - Mod Power|
 Integers Come In All Sizes|
 Triangle Quest|
-<img width=400/>|
 
 ## Itertools (0/7)
-problems|
+problems<img width=300/>|
 ---|
 itertools.product()|
 itertools.permutations()|
@@ -80,10 +77,9 @@ itertools.combinations_with_replacement()|
 Compress the String!|
 Iterables and Iterators|
 Maximize It!|
-<img width=400/>|
 
 ## Collections (0/8)
-problems|
+problems<img width=300/>|
 ---|
 collections.Counter()|
 Company Logo|
@@ -93,31 +89,27 @@ Collections.namedtuple()|
 Collections.OrderedDict()|
 Word Order|
 Collections.deque()|
-<img width=400/>|
 
 ## Data and Time (0/2)
-problems|
+problems<img width=300/>|
 ---|
 Calendar Module|
 Time Delta|
-<img width=400/>|
 
 ## Errors and Exceptions (0/2)
-problems|
+problems<img width=300/>|
 ---|
 Exceptions|
 Incorrect Regex|
-<img width=400/>|
 
 ## Classes (0/2)
-problems|
+problems<img width=300/>|
 ---|
 Classes: Dealing with Complex Numbers|
 Class 2 - Find the Torsional Angle|
-<img width=400/>|
 
 ## Built-Ins (0/6)
-problems|
+problems<img width=300/>|
 ---|
 Input()|
 Zipped!|
@@ -125,18 +117,16 @@ Python Evaluation|
 Athlete Sort|
 Any or All|
 ginortS|
-<img width=400/>|
 
 ## Python Functionals (0/3)
-problems|
+problems<img width=300/>|
 ---|
 Map and Lambda Function|
 Validating Email Addresses With a Filter|
 Reduce Function|
-<img width=400/>|
 
 ## Regex and Parsing (0/17)
-problems|
+problems<img width=300/>|
 ---|
 Detect Floating Point Number|
 Re.split()|
@@ -155,24 +145,21 @@ Validating UID|
 Validating Credit Card Numbers|
 Validating Postal Codes|
 Matrix Script|
-<img width=400/>|
 
 ## XML (0/2)
-problems|
+problems<img width=300/>|
 ---|
 XML 1 - Find the Score|
 XML2 - Find the Maximum Depth|
-<img width=400/>|
 
 ## Closures and Decorators (0/2)
-problems|
+problems<img width=300/>|
 ---|
 Standardize Mobile Number Using Decorators|
 Decorators 2 - Name Directory|
-<img width=400/>|
 
 ## Numpy (0/15)
-problems|
+problems<img width=300/>|
 ---|
 Arrays|
 Transpose and Flatten|
@@ -189,13 +176,11 @@ Dot and Cross|
 Inner and Outer|
 Polynomials|
 Linear Algebra|
-<img width=400/>|
 
 ## Debugging (0/2)
-problems|
+problems<img width=300/>|
 ---|
 Words Score|
 Default Arguments|
-<img width=400/>|
 
 
