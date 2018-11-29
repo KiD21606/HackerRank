@@ -10,7 +10,7 @@ problems|
 [Loops](./Introduction/Loops.py)|
 [Write a function](./Introduction/Write_a_function.py)|
 [Print Function](./Introduction/Print_Function.py)|
-<img width=700/>|
+<img width=400/>|
 
 ## Basic Data Types (0/6)
 problems|
@@ -21,7 +21,6 @@ Nested Lists|
 Finding the percentage|
 Lists|
 Tuples|
-<img width=700/>|
 ## Strings (0/14)
 problems|
 ---|
@@ -39,7 +38,7 @@ String Formatting|
 Alphabet Rangoli|
 Capitalize!|
 The Minion Game|
-<img width=700/>|
+<img width=400/>|
 
 ## Sets (0/13)
 problems|
@@ -57,7 +56,7 @@ Set Mutations|
 The Captain's Room|
 Check Subset|
 Check Strict Superset|
-<img width=700/>|
+<img width=400/>|
 
 ## Math (0/7)
 problems|
@@ -69,7 +68,7 @@ Mod Divmod|
 Power - Mod Power|
 Integers Come In All Sizes|
 Triangle Quest|
-<img width=700/>|
+<img width=400/>|
 
 ## Itertools (0/7)
 problems|
@@ -81,7 +80,7 @@ itertools.combinations_with_replacement()|
 Compress the String!|
 Iterables and Iterators|
 Maximize It!|
-<img width=700/>|
+<img width=400/>|
 
 ## Collections (0/8)
 problems|
@@ -94,28 +93,28 @@ Collections.namedtuple()|
 Collections.OrderedDict()|
 Word Order|
 Collections.deque()|
-<img width=700/>|
+<img width=400/>|
 
 ## Data and Time (0/2)
 problems|
 ---|
 Calendar Module|
 Time Delta|
-<img width=700/>|
+<img width=400/>|
 
 ## Errors and Exceptions (0/2)
 problems|
 ---|
 Exceptions|
 Incorrect Regex|
-<img width=700/>|
+<img width=400/>|
 
 ## Classes (0/2)
 problems|
 ---|
 Classes: Dealing with Complex Numbers|
 Class 2 - Find the Torsional Angle|
-<img width=700/>|
+<img width=400/>|
 
 ## Built-Ins (0/6)
 problems|
@@ -126,7 +125,7 @@ Python Evaluation|
 Athlete Sort|
 Any or All|
 ginortS|
-<img width=700/>|
+<img width=400/>|
 
 ## Python Functionals (0/3)
 problems|
@@ -134,7 +133,7 @@ problems|
 Map and Lambda Function|
 Validating Email Addresses With a Filter|
 Reduce Function|
-<img width=700/>|
+<img width=400/>|
 
 ## Regex and Parsing (0/17)
 problems|
@@ -156,21 +155,21 @@ Validating UID|
 Validating Credit Card Numbers|
 Validating Postal Codes|
 Matrix Script|
-<img width=700/>|
+<img width=400/>|
 
 ## XML (0/2)
 problems|
 ---|
 XML 1 - Find the Score|
 XML2 - Find the Maximum Depth|
-<img width=700/>|
+<img width=400/>|
 
 ## Closures and Decorators (0/2)
 problems|
 ---|
 Standardize Mobile Number Using Decorators|
 Decorators 2 - Name Directory|
-<img width=700/>|
+<img width=400/>|
 
 ## Numpy (0/15)
 problems|
@@ -190,13 +189,13 @@ Dot and Cross|
 Inner and Outer|
 Polynomials|
 Linear Algebra|
-<img width=700/>|
+<img width=400/>|
 
 ## Debugging (0/2)
 problems|
 ---|
 Words Score|
 Default Arguments|
-<img width=700/>|
+<img width=400/>|
 
 
