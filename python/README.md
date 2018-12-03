@@ -1,4 +1,4 @@
-# Python (13/115)
+# Python (20/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -56,16 +56,16 @@ The Captain's Room|
 Check Subset|
 Check Strict Superset|
 
-## Math (0/7)
+## Math (7)
 problems<img width=300/>|
 ---|
-Polar Coordinates|
-Find Angle MBC|
-Triangle Quest 2|
-Mod Divmod|
-Power - Mod Power|
-Integers Come In All Sizes|
-Triangle Quest|
+[Polar Coordinates](Math/Polar_Coordinates.py)|
+[Find Angle MBC](Math/Find_Angle_MBC.py)|
+[Triangle Quest 2](Math/Triangle_Quest_2.py)|
+[Mod Divmod](Math/Mod_Divmod.py)|
+[Power - Mod Power](Math/Power-Mod_Power.py)|
+[Integers Come In All Sizes](Math/Integers_Come_In_All_Sizes.py)|
+[Triangle Quest](Math/Triangle_Quest.py)|
 
 ## Itertools (0/7)
 problems<img width=300/>|
