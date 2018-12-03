@@ -1,4 +1,4 @@
-# Python (27/115)
+# Python (29/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -152,11 +152,11 @@ problems<img width=300/>|
 XML 1 - Find the Score|
 XML2 - Find the Maximum Depth|
 
-## Closures and Decorators (0/2)
+## Closures and Decorators (2)
 problems<img width=300/>|
 ---|
-Standardize Mobile Number Using Decorators|
-Decorators 2 - Name Directory|
+[Standardize Mobile Number Using Decorators](Closures_and_Decorators/Standardize_Mobile_Number_Using_Decorators.py)|
+[Decorators 2 - Name Directory](Closures_and_Decorators/Decorators_2-Name_Directory.py)|
 
 ## Numpy (0/15)
 problems<img width=300/>|
