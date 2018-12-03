@@ -1,25 +1,25 @@
-# Python (7/115)
+# Python (13/115)
 
 ## Introduction (7)
 problems<img width=300/>|
 ---|
-[Say "Hello, World!" With Python](./Introduction/Say_Hello_World_With_Python.py)|
-[Python If-Else](./Introduction/Python_If-Else.py)|
-[Arithmetic Operators](./Introduction/Arithmetic_Operators.py)|
-[Python: Division](./Introduction/Python_Division.py)|
-[Loops](./Introduction/Loops.py)|
-[Write a function](./Introduction/Write_a_function.py)|
-[Print Function](./Introduction/Print_Function.py)|
+[Say "Hello, World!" With Python](Introduction/Say_Hello_World_With_Python.py)|
+[Python If-Else](Introduction/Python_If-Else.py)|
+[Arithmetic Operators](Introduction/Arithmetic_Operators.py)|
+[Python: Division](Introduction/Python_Division.py)|
+[Loops](Introduction/Loops.py)|
+[Write a function](Introduction/Write_a_function.py)|
+[Print Function](Introduction/Print_Function.py)|
 
-## Basic Data Types (0/6)
+## Basic Data Types (6)
 problems<img width=300/>|
 ---|
-List Comprehensions|
-Find the Runner-Up Score!|
-Nested Lists|
-Finding the percentage|
-Lists|
-Tuples|
+[List Comprehensions](Basic_Data_Types/List_Comprehensions.py)|
+[Find the Runner-Up Score!](Basic_Data_Types/Find_the_Runner-Up_Score.py)|
+[Nested Lists](Basic_Data_Types/Nested_Lists.py)|
+[Finding the percentage](Basic_Data_Types/Finding_the_percentage.py)|
+[Lists](Basic_Data_Types/Lists.py)|
+[Tuples](Basic_Data_Types/Tuples.py)|
 
 ## Strings (0/14)
 problems<img width=300/>|
