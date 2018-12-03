@@ -1,4 +1,4 @@
-# Python (20/115)
+# Python (27/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -67,16 +67,16 @@ problems<img width=300/>|
 [Integers Come In All Sizes](Math/Integers_Come_In_All_Sizes.py)|
 [Triangle Quest](Math/Triangle_Quest.py)|
 
-## Itertools (0/7)
+## Itertools (7)
 problems<img width=300/>|
 ---|
-itertools.product()|
-itertools.permutations()|
-itertools.combinations()|
-itertools.combinations_with_replacement()|
-Compress the String!|
-Iterables and Iterators|
-Maximize It!|
+[itertools.product()](Itertools/itertools.product().py)|
+[itertools.permutations()](Itertools/itertools.permutations().py)|
+[itertools.combinations()](Itertools/itertools.combinations().py)|
+[itertools.combinations_with_replacement()](Itertools/itertools.combinations_with_replacement().py)|
+[Compress the String!](Itertools/Compress_the_String.py)|
+[Iterables and Iterators](Itertools/Iterables_and_Iterators.py)|
+[Maximize It!](Itertools/Maximize_It.py)|
 
 ## Collections (0/8)
 problems<img width=300/>|
