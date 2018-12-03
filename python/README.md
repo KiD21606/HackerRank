@@ -1,4 +1,4 @@
-# Python (29/115)
+# Python (46/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -21,41 +21,41 @@ problems<img width=300/>|
 [Lists](Basic_Data_Types/Lists.py)|
 [Tuples](Basic_Data_Types/Tuples.py)|
 
-## Strings (0/14)
+## Strings (7/14)
 problems<img width=300/>|
 ---|
-Text Alignment|
-sWAP cASE|
-String Split and Join|
-What's Your Name?|
-Mutations|
-Find a string|
-String Validators|
-Merge the Tools!|
-Text Wrap|
-Designer Door Mat|
-String Formatting|
-Alphabet Rangoli|
-Capitalize!|
-The Minion Game|
-
+[Text Alignment]|
+[sWAP cASE](Strings/sWAP_cASE.py)|
+[String Split and Join](Strings/String_Split_and_Join.py)|
+[What's Your Name?](Strings/What's_Your_Name.py)|
+[Mutations](Strings/Mutations.py)|
+[Find a string](Strings/Find_a_string.py)|
+[String Validators](Strings/String_Validators.py)|
+[Merge the Tools!](Strings/Merge_the_Tools!.py)|
+[Text Wrap]|
+[Designer Door Mat]|
+[String Formatting]|
+[Alphabet Rangoli]|
+[Capitalize!]|
+[The Minion Game]|
+(Strings/.py)
 ## Sets (0/13)
 problems<img width=300/>|
 ---|
-Introduction to Sets|
-No Idea!|
-Symmetric Difference|
-Set .add()|
-Set .discard(), .remove() & .pop()|
-Set .union() Operation|
-Set .intersection() Operation|
-Set .difference() Operation|
-Set .symmetric_difference() Operation|
-Set Mutations|
-The Captain's Room|
-Check Subset|
-Check Strict Superset|
-
+[Introduction to Sets]|
+[No Idea!]|
+[Symmetric Difference]|
+[Set .add()]|
+[Set .discard(), .remove() & .pop()]|
+[Set .union() Operation]|
+[Set .intersection() Operation]|
+[Set .difference() Operation]|
+[Set .symmetric_difference() Operation]|
+[Set Mutations]|
+[The Captain's Room]|
+[Check Subset]|
+[Check Strict Superset]|
+(Sets/.py)
 ## Math (7)
 problems<img width=300/>|
 ---|
@@ -78,109 +78,109 @@ problems<img width=300/>|
 [Iterables and Iterators](Itertools/Iterables_and_Iterators.py)|
 [Maximize It!](Itertools/Maximize_It.py)|
 
-## Collections (0/8)
+## Collections (2/8)
 problems<img width=300/>|
 ---|
-collections.Counter()|
-Company Logo|
-Piling Up!|
-DefaultDict Tutorial|
-Collections.namedtuple()|
-Collections.OrderedDict()|
-Word Order|
-Collections.deque()|
-
+[collections.Counter()]|
+[Company Logo](Collections/Company_Logo.py)|
+[Piling Up!](Collections/Piling_Up!.py)|
+[DefaultDict Tutorial]|
+[Collections.namedtuple()]|
+[Collections.OrderedDict()]|
+[Word Order]|
+[Collections.deque()]|
+(Collections/.py)
 ## Data and Time (0/2)
 problems<img width=300/>|
 ---|
-Calendar Module|
-Time Delta|
-
+[Calendar Module]|
+[Time Delta]|
+(Data_and_Time/.py)
 ## Errors and Exceptions (0/2)
 problems<img width=300/>|
 ---|
-Exceptions|
-Incorrect Regex|
-
+[Exceptions]|
+[Incorrect Regex]|
+(Errors_and_Exceptions/.py)
 ## Classes (0/2)
 problems<img width=300/>|
 ---|
-Classes: Dealing with Complex Numbers|
-Class 2 - Find the Torsional Angle|
-
-## Built-Ins (0/6)
+[Classes: Dealing with Complex Numbers]|
+[Class 2 - Find the Torsional Angle]|
+(Classes/.py)
+## Built-Ins (1/6)
 problems<img width=300/>|
 ---|
-Input()|
-Zipped!|
-Python Evaluation|
-Athlete Sort|
-Any or All|
-ginortS|
-
+[Input()]|
+[Zipped!](Built-Ins/Zipped!.py)|
+[Python Evaluation]|
+[Athlete Sort]|
+[Any or All]|
+[ginortS]|
+(Built-Ins/.py)
 ## Python Functionals (0/3)
 problems<img width=300/>|
 ---|
-Map and Lambda Function|
-Validating Email Addresses With a Filter|
-Reduce Function|
-
+[Map and Lambda Function]|
+[Validating Email Addresses With a Filter]|
+[Reduce Function]|
+(Python_Functionals/.py)
 ## Regex and Parsing (0/17)
 problems<img width=300/>|
 ---|
-Detect Floating Point Number|
-Re.split()|
-Group(), Groups() & Groupdict()|
-Re.findall() & Re.finditer()|
-Re.start() & Re.end()|
-Regex Substitution|
-Validating Roman Numerals|
-Validating phone numbers|
-Validating and Parsing Email Addresses|
-Hex Color Code|
-HTML Parser - Part 1|
-HTML Parser - Part 2|
-Detect HTML Tags, Attributes and Attribute Values|
-Validating UID|
-Validating Credit Card Numbers|
-Validating Postal Codes|
-Matrix Script|
-
+[Detect Floating Point Number]|
+[Re.split()]|
+[Group(), Groups() & Groupdict()]|
+[Re.findall() & Re.finditer()]|
+[Re.start() & Re.end()]|
+[Regex Substitution]|
+[Validating Roman Numerals]|
+[Validating phone numbers]|
+[Validating and Parsing Email Addresses]|
+[Hex Color Code]|
+[HTML Parser - Part 1]|
+[HTML Parser - Part 2]|
+[Detect HTML Tags, Attributes and Attribute Values]|
+[Validating UID]|
+[Validating Credit Card Numbers]|
+[Validating Postal Codes]|
+[Matrix Script]|
+(Regex_and_Parsing/.py)
 ## XML (0/2)
 problems<img width=300/>|
 ---|
-XML 1 - Find the Score|
-XML2 - Find the Maximum Depth|
-
+[XML 1 - Find the Score]|
+[XML2 - Find the Maximum Depth]|
+(XML/.py)
 ## Closures and Decorators (2)
 problems<img width=300/>|
 ---|
 [Standardize Mobile Number Using Decorators](Closures_and_Decorators/Standardize_Mobile_Number_Using_Decorators.py)|
 [Decorators 2 - Name Directory](Closures_and_Decorators/Decorators_2-Name_Directory.py)|
 
-## Numpy (0/15)
+## Numpy (7/15)
 problems<img width=300/>|
 ---|
-Arrays|
-Transpose and Flatten|
-Concatenate|
-Zeros and Ones|
-Eye and Identity|
-Array Mathematics|
-Floor, Ceil and Rint|
-Sum and Prod|
-Shape and Reshape|
-Min and Max|
-Mean, Var, and Std|
-Dot and Cross|
-Inner and Outer|
-Polynomials|
-Linear Algebra|
-
+[Arrays]|
+[Transpose and Flatten](Numpy/Transpose_and_Flatten.py)|
+[Concatenate](Numpy/Concatenate.py)|
+[Zeros and Ones](Numpy/Zeros_and_Ones.py)|
+[Eye and Identity](Numpy/Eye_and_Identity.py)|
+[Array Mathematics](Numpy/Array_Mathematics.py)|
+[Floor, Ceil and Rint](Numpy/Floor_Ceil_and_Rint.py)|
+[Sum and Prod](Numpy/Sum_and_Prod.py)|
+[Shape and Reshape]|
+[Min and Max]|
+[Mean, Var, and Std]|
+[Dot and Cross]|
+[Inner and Outer]|
+[Polynomials]|
+[Linear Algebra]|
+(Numpy/.py)
 ## Debugging (0/2)
 problems<img width=300/>|
 ---|
-Words Score|
-Default Arguments|
-
+[Words Score]|
+[Default Arguments]|
+(Debugging/.py)
 
