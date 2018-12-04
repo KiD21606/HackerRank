@@ -1,4 +1,4 @@
-# Python (46/115)
+# Python (50/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -21,10 +21,10 @@ problems<img width=300/>|
 [Lists](Basic_Data_Types/Lists.py)|
 [Tuples](Basic_Data_Types/Tuples.py)|
 
-## Strings (7/14)
+## Strings (11/14)
 problems<img width=300/>|
 ---|
-[Text Alignment]|
+[Text Alignment](Strings/Text_Alignment.py)|
 [sWAP cASE](Strings/sWAP_cASE.py)|
 [String Split and Join](Strings/String_Split_and_Join.py)|
 [What's Your Name?](Strings/What's_Your_Name.py)|
@@ -32,9 +32,9 @@ problems<img width=300/>|
 [Find a string](Strings/Find_a_string.py)|
 [String Validators](Strings/String_Validators.py)|
 [Merge the Tools!](Strings/Merge_the_Tools!.py)|
-[Text Wrap]|
-[Designer Door Mat]|
-[String Formatting]|
+[Text Wrap](Strings/Text_Wrap.py)|
+[Designer Door Mat](Strings/Designer_Door_Mat.py)|
+[String Formatting](Strings/String_Formatting.py)|
 [Alphabet Rangoli]|
 [Capitalize!]|
 [The Minion Game]|
