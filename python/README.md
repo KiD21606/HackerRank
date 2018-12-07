@@ -1,4 +1,4 @@
-# Python (53/115)
+# Python (56/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -39,14 +39,14 @@ problems<img width=300/>|
 [Capitalize!](Strings/Capitalize!.py)|
 [The Minion Game](Strings/The_Minion_Game.py)|
 
-## Sets (0/13)
+## Sets (3/13)
 problems<img width=300/>|
 ---|
 [Introduction to Sets]|
-[No Idea!]|
+[No Idea!](Sets/No_Idea!.py)|
 [Symmetric Difference]|
-[Set .add()]|
-[Set .discard(), .remove() & .pop()]|
+[Set .add()](Sets/Set.add().py)|
+[Set .discard(), .remove() & .pop()](Sets/Set.discard()_.remove()_and_.pop().py)|
 [Set .union() Operation]|
 [Set .intersection() Operation]|
 [Set .difference() Operation]|
