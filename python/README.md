@@ -1,4 +1,4 @@
-# Python (50/115)
+# Python (53/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -21,7 +21,7 @@ problems<img width=300/>|
 [Lists](Basic_Data_Types/Lists.py)|
 [Tuples](Basic_Data_Types/Tuples.py)|
 
-## Strings (11/14)
+## Strings (14)
 problems<img width=300/>|
 ---|
 [Text Alignment](Strings/Text_Alignment.py)|
@@ -35,10 +35,10 @@ problems<img width=300/>|
 [Text Wrap](Strings/Text_Wrap.py)|
 [Designer Door Mat](Strings/Designer_Door_Mat.py)|
 [String Formatting](Strings/String_Formatting.py)|
-[Alphabet Rangoli]|
-[Capitalize!]|
-[The Minion Game]|
-(Strings/.py)
+[Alphabet Rangoli](Strings/Alphabet_Rangoli.py)|
+[Capitalize!](Strings/Capitalize!.py)|
+[The Minion Game](Strings/The_Minion_Game.py)|
+
 ## Sets (0/13)
 problems<img width=300/>|
 ---|
