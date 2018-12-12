@@ -1,4 +1,4 @@
-# Python (58/115)
+# Python (67/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -39,7 +39,7 @@ problems<img width=300/>|
 [Capitalize!](Strings/Capitalize!.py)|
 [The Minion Game](Strings/The_Minion_Game.py)|
 
-## Sets (5/13)
+## Sets (13)
 problems<img width=300/>|
 ---|
 [Introduction to Sets](Sets/Introduction_to_Sets.py)|
@@ -47,15 +47,15 @@ problems<img width=300/>|
 [Symmetric Difference](Sets/Symmetric_Difference.py)|
 [Set .add()](Sets/Set.add().py)|
 [Set .discard(), .remove() & .pop()](Sets/Set.discard()_.remove()_and_.pop().py)|
-[Set .union() Operation]|
-[Set .intersection() Operation]|
-[Set .difference() Operation]|
-[Set .symmetric_difference() Operation]|
-[Set Mutations]|
-[The Captain's Room]|
-[Check Subset]|
-[Check Strict Superset]|
-(Sets/.py)
+[Set .union() Operation](Sets/Set.union()_Operation.py)|
+[Set .intersection() Operation](Sets/Set.intersection()_Operation.py)|
+[Set .difference() Operation](Sets/Set.difference()_Operation.py)|
+[Set .symmetric_difference() Operation](Sets/Set.symmetric_difference()_Operation.py)|
+[Set Mutations](Sets/Set_Mutations.py)|
+[The Captain's Room](Sets/The_Captain's_Room.py)|
+[Check Subset](Sets/Check_Subset.py)|
+[Check Strict Superset](Sets/Check_Strict_Superset.py)|
+
 ## Math (7)
 problems<img width=300/>|
 ---|
@@ -125,10 +125,10 @@ problems<img width=300/>|
 [Validating Email Addresses With a Filter]|
 [Reduce Function]|
 (Python_Functionals/.py)
-## Regex and Parsing (0/17)
+## Regex and Parsing (1/17)
 problems<img width=300/>|
 ---|
-[Detect Floating Point Number]|
+[Detect Floating Point Number](Regex_and_Parsing/Detect_Floating_Point_Number.py)|
 [Re.split()]|
 [Group(), Groups() & Groupdict()]|
 [Re.findall() & Re.finditer()]|
