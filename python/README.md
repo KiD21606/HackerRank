@@ -1,4 +1,4 @@
-# Python (67/115)
+# Python (70/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -78,14 +78,14 @@ problems<img width=300/>|
 [Iterables and Iterators](Itertools/Iterables_and_Iterators.py)|
 [Maximize It!](Itertools/Maximize_It.py)|
 
-## Collections (2/8)
+## Collections (5/8)
 problems<img width=300/>|
 ---|
-[collections.Counter()]|
+[collections.Counter()](Collections/collections.Counter().py)|
 [Company Logo](Collections/Company_Logo.py)|
 [Piling Up!](Collections/Piling_Up!.py)|
-[DefaultDict Tutorial]|
-[Collections.namedtuple()]|
+[DefaultDict Tutorial](Collections/DefaultDict_Tutorial.py)|
+[Collections.namedtuple()](Collections/Collections.namedtuple().py)|
 [Collections.OrderedDict()]|
 [Word Order]|
 [Collections.deque()]|
