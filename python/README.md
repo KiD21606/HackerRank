@@ -1,4 +1,4 @@
-# Python (70/115)
+# Python (74/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -78,7 +78,7 @@ problems<img width=300/>|
 [Iterables and Iterators](Itertools/Iterables_and_Iterators.py)|
 [Maximize It!](Itertools/Maximize_It.py)|
 
-## Collections (5/8)
+## Collections (8)
 problems<img width=300/>|
 ---|
 [collections.Counter()](Collections/collections.Counter().py)|
@@ -86,14 +86,14 @@ problems<img width=300/>|
 [Piling Up!](Collections/Piling_Up!.py)|
 [DefaultDict Tutorial](Collections/DefaultDict_Tutorial.py)|
 [Collections.namedtuple()](Collections/Collections.namedtuple().py)|
-[Collections.OrderedDict()]|
-[Word Order]|
-[Collections.deque()]|
-(Collections/.py)
-## Data and Time (0/2)
+[Collections.OrderedDict()](Collections/Collections.OrderedDict().py)|
+[Word Order](Collections/Word_Order.py)|
+[Collections.deque()](Collections/Collections.deque().py)|
+
+## Data and Time (1/2)
 problems<img width=300/>|
 ---|
-[Calendar Module]|
+[Calendar Module](Data_and_Time/Calendar_Module.py)|
 [Time Delta]|
 (Data_and_Time/.py)
 ## Errors and Exceptions (0/2)
