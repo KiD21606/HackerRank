@@ -1,4 +1,4 @@
-# Python (74/115)
+# Python (75/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -90,12 +90,12 @@ problems<img width=300/>|
 [Word Order](Collections/Word_Order.py)|
 [Collections.deque()](Collections/Collections.deque().py)|
 
-## Data and Time (1/2)
+## Date and Time (2)
 problems<img width=300/>|
 ---|
-[Calendar Module](Data_and_Time/Calendar_Module.py)|
-[Time Delta]|
-(Data_and_Time/.py)
+[Calendar Module](Date_and_Time/Calendar_Module.py)|
+[Time Delta](Date_and_Time/Time_Delta.py)|
+
 ## Errors and Exceptions (0/2)
 problems<img width=300/>|
 ---|
