@@ -1,4 +1,4 @@
-# Python (75/115)
+# Python (82/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -118,34 +118,35 @@ problems<img width=300/>|
 [Any or All]|
 [ginortS]|
 (Built-Ins/.py)
-## Python Functionals (0/3)
+## Python Functionals (3)
 problems<img width=300/>|
 ---|
-[Map and Lambda Function]|
-[Validating Email Addresses With a Filter]|
-[Reduce Function]|
-(Python_Functionals/.py)
-## Regex and Parsing (1/17)
+[Map and Lambda Function](Python_Functionals/Map_and_Lambda_Function.py)|
+[Validating Email Addresses With a Filter](Python_Functionals/Validating_Email_Addresses_With_a_Filter.py)|
+[Reduce Function](Python_Functionals/Reduce_Function.py)|
+
+## Regex and Parsing (5/17)
 problems<img width=300/>|
 ---|
 [Detect Floating Point Number](Regex_and_Parsing/Detect_Floating_Point_Number.py)|
-[Re.split()]|
-[Group(), Groups() & Groupdict()]|
-[Re.findall() & Re.finditer()]|
-[Re.start() & Re.end()]|
-[Regex Substitution]|
-[Validating Roman Numerals]|
-[Validating phone numbers]|
-[Validating and Parsing Email Addresses]|
-[Hex Color Code]|
-[HTML Parser - Part 1]|
-[HTML Parser - Part 2]|
-[Detect HTML Tags, Attributes and Attribute Values]|
-[Validating UID]|
-[Validating Credit Card Numbers]|
-[Validating Postal Codes]|
-[Matrix Script]|
-(Regex_and_Parsing/.py)
+[Re.split()](Regex_and_Parsing/Re.split().py)|
+[Group(), Groups() & Groupdict()](Regex_and_Parsing/Group(),Groups()&Groupdict().py)|
+[Re.findall() & Re.finditer()](Regex_and_Parsing/Re.findall()&Re.finditer().py)|
+[Re.start() & Re.end()](Regex_and_Parsing/Re.start()&Re.end().py)|
+
+[Regex Substitution](Regex_and_Parsing/.py)|
+[Validating Roman Numerals](Regex_and_Parsing/.py)|
+[Validating phone numbers](Regex_and_Parsing/.py)|
+[Validating and Parsing Email Addresses](Regex_and_Parsing/.py)|
+[Hex Color Code](Regex_and_Parsing/.py)|
+[HTML Parser - Part 1](Regex_and_Parsing/.py)|
+[HTML Parser - Part 2](Regex_and_Parsing/.py)|
+[Detect HTML Tags, Attributes and Attribute Values](Regex_and_Parsing/.py)|
+[Validating UID](Regex_and_Parsing/.py)|
+[Validating Credit Card Numbers](Regex_and_Parsing/.py)|
+[Validating Postal Codes](Regex_and_Parsing/.py)|
+[Matrix Script](Regex_and_Parsing/.py)|
+
 ## XML (0/2)
 problems<img width=300/>|
 ---|
