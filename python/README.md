@@ -1,4 +1,4 @@
-# Python (82/115)
+# Python (90/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -125,7 +125,7 @@ problems<img width=300/>|
 [Validating Email Addresses With a Filter](Python_Functionals/Validating_Email_Addresses_With_a_Filter.py)|
 [Reduce Function](Python_Functionals/Reduce_Function.py)|
 
-## Regex and Parsing (5/17)
+## Regex and Parsing (13/17)
 problems<img width=300/>|
 ---|
 [Detect Floating Point Number](Regex_and_Parsing/Detect_Floating_Point_Number.py)|
@@ -133,15 +133,15 @@ problems<img width=300/>|
 [Group(), Groups() & Groupdict()](Regex_and_Parsing/Group(),Groups()&Groupdict().py)|
 [Re.findall() & Re.finditer()](Regex_and_Parsing/Re.findall()&Re.finditer().py)|
 [Re.start() & Re.end()](Regex_and_Parsing/Re.start()&Re.end().py)|
+[Regex Substitution](Regex_and_Parsing/Regex_Substitution.py)|
+[Validating Roman Numerals](Regex_and_Parsing/Validating_Roman_Numerals.py)|
+[Validating phone numbers](Regex_and_Parsing/Validating_phone_numbers.py)|
+[Validating and Parsing Email Addresses](Regex_and_Parsing/Validating_and_Parsing_Email_Addresses.py)|
+[Hex Color Code](Regex_and_Parsing/Hex_Color_Code.py)|
+[HTML Parser - Part 1](Regex_and_Parsing/HTML_Parser-Part_1.py)|
+[HTML Parser - Part 2](Regex_and_Parsing/HTML_Parser-Part_2.py)|
+[Detect HTML Tags, Attributes and Attribute Values](Regex_and_Parsing/Detect_HTML_Tags,Attributes_and_Attribute_Values.py)|
 
-[Regex Substitution](Regex_and_Parsing/.py)|
-[Validating Roman Numerals](Regex_and_Parsing/.py)|
-[Validating phone numbers](Regex_and_Parsing/.py)|
-[Validating and Parsing Email Addresses](Regex_and_Parsing/.py)|
-[Hex Color Code](Regex_and_Parsing/.py)|
-[HTML Parser - Part 1](Regex_and_Parsing/.py)|
-[HTML Parser - Part 2](Regex_and_Parsing/.py)|
-[Detect HTML Tags, Attributes and Attribute Values](Regex_and_Parsing/.py)|
 [Validating UID](Regex_and_Parsing/.py)|
 [Validating Credit Card Numbers](Regex_and_Parsing/.py)|
 [Validating Postal Codes](Regex_and_Parsing/.py)|
