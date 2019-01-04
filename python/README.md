@@ -1,4 +1,4 @@
-# Python (90/115)
+# Python (97/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -96,16 +96,16 @@ problems<img width=300/>|
 [Calendar Module](Date_and_Time/Calendar_Module.py)|
 [Time Delta](Date_and_Time/Time_Delta.py)|
 
-## Errors and Exceptions (0/2)
+## Errors and Exceptions (2)
 problems<img width=300/>|
 ---|
-[Exceptions]|
-[Incorrect Regex]|
-(Errors_and_Exceptions/.py)
+[Exceptions](Errors_and_Exceptions/Exceptions.py)|
+[Incorrect Regex](Errors_and_Exceptions/Incorrect_Regex.py)|
+
 ## Classes (0/2)
 problems<img width=300/>|
 ---|
-[Classes: Dealing with Complex Numbers]|
+[Classes: Dealing with Complex Numbers](Classes/Classes_Dealing_with_Complex_Numbers.py)|
 [Class 2 - Find the Torsional Angle]|
 (Classes/.py)
 ## Built-Ins (1/6)
@@ -125,7 +125,7 @@ problems<img width=300/>|
 [Validating Email Addresses With a Filter](Python_Functionals/Validating_Email_Addresses_With_a_Filter.py)|
 [Reduce Function](Python_Functionals/Reduce_Function.py)|
 
-## Regex and Parsing (13/17)
+## Regex and Parsing (17)
 problems<img width=300/>|
 ---|
 [Detect Floating Point Number](Regex_and_Parsing/Detect_Floating_Point_Number.py)|
@@ -141,11 +141,10 @@ problems<img width=300/>|
 [HTML Parser - Part 1](Regex_and_Parsing/HTML_Parser-Part_1.py)|
 [HTML Parser - Part 2](Regex_and_Parsing/HTML_Parser-Part_2.py)|
 [Detect HTML Tags, Attributes and Attribute Values](Regex_and_Parsing/Detect_HTML_Tags,Attributes_and_Attribute_Values.py)|
-
-[Validating UID](Regex_and_Parsing/.py)|
-[Validating Credit Card Numbers](Regex_and_Parsing/.py)|
-[Validating Postal Codes](Regex_and_Parsing/.py)|
-[Matrix Script](Regex_and_Parsing/.py)|
+[Validating UID](Regex_and_Parsing/Validating_UID.py)|
+[Validating Credit Card Numbers](Regex_and_Parsing/Validating_Credit_Card_Numbers.py)|
+[Validating Postal Codes](Regex_and_Parsing/Validating_Postal_Codes.py)|
+[Matrix Script](Regex_and_Parsing/Matrix_Script.py)|
 
 ## XML (0/2)
 problems<img width=300/>|
