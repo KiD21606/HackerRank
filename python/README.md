@@ -1,4 +1,4 @@
-# Python (97/115)
+# Python (98/115)
 
 ## Introduction (7)
 problems<img width=300/>|
@@ -102,12 +102,12 @@ problems<img width=300/>|
 [Exceptions](Errors_and_Exceptions/Exceptions.py)|
 [Incorrect Regex](Errors_and_Exceptions/Incorrect_Regex.py)|
 
-## Classes (0/2)
+## Classes (2)
 problems<img width=300/>|
 ---|
 [Classes: Dealing with Complex Numbers](Classes/Classes_Dealing_with_Complex_Numbers.py)|
-[Class 2 - Find the Torsional Angle]|
-(Classes/.py)
+[Class 2 - Find the Torsional Angle](Classes/Class2-Find_the_Torsional_Angle.py)|
+
 ## Built-Ins (1/6)
 problems<img width=300/>|
 ---|
