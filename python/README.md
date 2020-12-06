@@ -1,6 +1,6 @@
 # Python (98/115)
 problems<img width=300/>|
----|---|---|---
+---|
 [Say "Hello, World!" With Python](Introduction/Say_Hello_World_With_Python.py)
 ## Introduction (7)
 problems<img width=300/>|
